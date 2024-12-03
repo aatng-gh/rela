@@ -6,3 +6,6 @@
 - Process multiple webpages simultaneously
 - Operate via CLI or a web app, with potential Chrome extension support
 
+**Libraries**:
+- https://github.com/go-shiori/go-readability
+- https://wkhtmltopdf.org/index.html
